@@ -1,0 +1,8 @@
+import wollok.game.*
+import nivel.*
+
+program Citytank {
+    nivel.inicio()
+	game.start()
+    
+}
